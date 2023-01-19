@@ -1,0 +1,21 @@
+#* java -ea ataxx.Main
+# Trivial test of Nothing
+manual blue
+block c4
+block d3
+block d4
+a7-a5
+a1-b1
+a5-a3
+b1-c1
+a3-b3
+c1-d1
+b3-b4
+d1-e1
+b4-a4
+e1-e2
+b4-b5
+e2-d2
+b5-b6
+dump
+quit
